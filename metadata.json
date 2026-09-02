@@ -1,0 +1,6 @@
+{
+  "name": "Share Energy",
+  "description": "Plataforma Share Energy para compartilhamento e gestao de energia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
